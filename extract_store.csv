@@ -1,0 +1,75 @@
+﻿StoreID;StoreName;Country;OpenDate;CloseDate;SquareMeters;StatusCD
+10;Contoso - Australian Capital Territory;Australia;01/01/2008;NULL;595;1
+20;Contoso - Northern Territory;Australia;12/01/2008;07/07/2016;665;2
+30;Contoso - South Australia;Australia;07/01/2012;08/08/2015;2000;3
+35;Contoso - Queensland;Australia;08/12/2015;NULL;3000;1
+40;Contoso - Tasmania;Australia;01/01/2010;NULL;1740;1
+50;Contoso - Victoria;Australia;09/12/2015;NULL;1550;1
+60;Contoso - Western Australia;Australia;01/01/2010;NULL;2000;1
+70;Contoso - New Brunswick;Canada;07/05/2007;09/03/2014;1105;3
+72;Contoso - Nunavut;Canada;11/01/2015;02/02/2018;1500;3
+74;Contoso - Quebec;Canada;02/06/2018;NULL;3500;1
+80;Contoso - Newfoundland and Labrador;Canada;02/07/2014;NULL;2105;1
+90;Contoso - Northwest Territories;Canada;04/03/2005;NULL;1500;1
+100;Contoso - British Columbia;Canada;04/04/2015;NULL;1210;1
+110;Contoso - Yukon;Canada;03/06/2009;05/05/2015;1210;2
+120;Contoso - Basse-Normandie;France;06/06/2012;NULL;350;1
+130;Contoso - Corse;France;07/06/2013;NULL;245;1
+465;Contoso - Occitanie;France;06/06/2015;03/08/2019;1015;2
+140;Contoso - Ile-de-France;France;15/12/2009;NULL;350;1
+150;Contoso - Bretagne;France;01/01/2015;NULL;400;1
+160;Contoso - PACA;France;03/06/2010;NULL;385;1
+170;Contoso - Martinique;France;08/07/2007;NULL;350;1
+180;Contoso - Mayotte;France;08/08/2012;NULL;310;1
+190;Contoso - Berlin;Germany;04/04/2015;NULL;1295;1
+200;Contoso - Brandenburg;Germany;15/12/2012;08/08/2019;1715;2
+210;Contoso - Freie Hansestadt Bremen;Germany;03/06/2018;NULL;560;1
+220;Contoso - Freistaat Thüringen;Germany;06/03/2008;NULL;2000;1
+230;Contoso - Hamburg;Germany;01/01/2010;NULL;1365;1
+240;Contoso - Hessen;Germany;15/12/2012;NULL;1855;1
+250;Contoso - Mecklenburg-Vorpommern;Germany;01/01/2010;04/04/2015;1610;3
+255;Contoso - Thuringia;Germany;08/08/2015;NULL;2800;1
+260;Contoso - Saarland;Germany;05/03/2019;NULL;350;1
+270;Contoso - Sachsen-Anhalt;Germany;08/08/2008;NULL;2000;1
+280;Contoso - Caltanissetta;Italy;15/12/2012;03/08/2017;1200;2
+290;Contoso - Enna;Italy;01/01/2008;NULL;1000;1
+300;Contoso - Pesaro;Italy;12/01/2008;NULL;2100;1
+310;Contoso - Drenthe;Netherlands;07/01/2012;NULL;1085;1
+320;Contoso - Flevoland;Netherlands;01/01/2010;NULL;910;1
+330;Contoso - Friesland;Netherlands;09/12/2015;NULL;1540;1
+340;Contoso - Groningen;Netherlands;01/01/2010;NULL;1365;1
+350;Contoso - Zeeland;Netherlands;07/05/2007;06/07/2015;1225;2
+999999;Contoso - Online;Online;01/01/2010;NULL;NULL;1
+360;Contoso - Armagh;United Kingdom;02/07/2014;NULL;1300;1
+370;Contoso - Ayrshire;United Kingdom;04/03/2005;NULL;2100;1
+380;Contoso - Belfast;United Kingdom;04/04/2015;NULL;1800;1
+390;Contoso - Blaenau Gwent;United Kingdom;03/06/2009;NULL;2100;1
+400;Contoso - Dungannon and South Tyrone;United Kingdom;06/06/2012;NULL;1300;1
+410;Contoso - Fermanagh;United Kingdom;07/06/2013;09/09/2018;2100;2
+420;Contoso - North Down;United Kingdom;15/12/2009;NULL;1900;1
+430;Contoso - Alaska;United States;01/01/2015;NULL;1190;1
+440;Contoso - Arkansas;United States;03/06/2010;NULL;2000;1
+450;Contoso - Connecticut;United States;08/07/2007;NULL;2000;1
+460;Contoso - Delaware;United States;08/08/2012;03/03/2015;1015;3
+470;Contoso - Hawaii;United States;04/04/2015;NULL;1120;1
+480;Contoso - Idaho;United States;15/12/2012;NULL;1540;1
+490;Contoso - Iowa;United States;03/06/2018;NULL;2000;1
+500;Contoso - Kansas;United States;06/03/2008;NULL;2000;1
+510;Contoso - Maine;United States;01/01/2010;NULL;1295;1
+520;Contoso - Mississippi;United States;03/06/2009;03/06/2015;2000;2
+530;Contoso - Montana;United States;06/06/2012;NULL;1260;1
+540;Contoso - Nebraska;United States;07/06/2013;NULL;2000;1
+550;Contoso - Nevada;United States;15/12/2009;NULL;2000;1
+560;Contoso - New Hampshire;United States;01/01/2015;NULL;1260;1
+570;Contoso - New Mexico;United States;03/06/2010;NULL;1645;1
+580;Contoso - North Dakota;United States;08/07/2007;06/07/2015;1330;3
+585;Contoso - Massachusetts;United States;15/12/2015;NULL;3500;1
+590;Contoso - Oregon;United States;08/08/2012;NULL;2000;1
+600;Contoso - Rhode Island;United States;04/04/2005;05/12/2013;1260;3
+605;Contoso - Pennsylvania;United States;03/06/2014;NULL;1260;1
+610;Contoso - South Carolina;United States;15/12/2012;NULL;2000;1
+620;Contoso - South Dakota;United States;03/06/2018;NULL;1120;1
+630;Contoso - Utah;United States;06/03/2008;03/11/2019;2000;1
+650;Contoso - Washington DC;United States;01/01/2010;NULL;1330;1
+660;Contoso - West Virginia;United States;01/01/2012;NULL;1785;1
+670;Contoso - Wyoming;United States;01/01/2014;NULL;840;1
